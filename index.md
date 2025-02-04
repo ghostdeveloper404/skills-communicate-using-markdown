@@ -21,4 +21,9 @@ console.log(a)
 ```
 yes this js code exmple
 
+##this is how to add check list
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
